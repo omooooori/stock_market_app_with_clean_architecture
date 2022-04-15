@@ -1,4 +1,4 @@
-package com.plcoding.stockmarketapp
+package jp.omooooori.stockmarketapp
 
 import org.junit.Test
 
